@@ -1,0 +1,9 @@
+{
+  "id": "test-plugin",
+  "name": "Test Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Throwaway plugin for testing the On-Prem Marketplace.",
+  "author": "David S.",
+  "isDesktopOnly": true
+}
